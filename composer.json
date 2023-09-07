@@ -1,5 +1,5 @@
 {
-    "name": "klarna/kco_rest",
+    "name": "3mo/klarna-php-sdk",
     "description": "Official Klarna REST PHP SDK",
     "homepage": "http://developers.klarna.com",
     "license": "Apache-2.0",
@@ -21,8 +21,8 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.5.0",
-        "guzzlehttp/guzzle": "~6.0"
+        "php": ">=7.2",
+        "guzzlehttp/guzzle": "7.*"
     },
     "require-dev": {
         "phpunit/phpunit": ">=4.0.0, <6.0",
