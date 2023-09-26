@@ -1,13 +1,22 @@
-<!-- markdownlint-disable MD024 MD036 -->
-
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+## [5.0.0](https://github.com/3mo-esolutions/klarna-php-sdk/compare/v4.2.3...v5.0.0) (2023-09-26)
 
-## [Unreleased]
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Guzzle version 6 > 7
+
+### Features
+
+* Upgrade Guzzle version 6 > 7 ([55d0f8e](https://github.com/3mo-esolutions/klarna-php-sdk/commit/55d0f8eaeae01977d27bdc8e9af5f92628e2cd4e))
+
+
+### Bug Fixes
+
+* Guzzle constant VERSION was renamed to MAJOR_VERSION ([e9a2fca](https://github.com/3mo-esolutions/klarna-php-sdk/commit/e9a2fcac161717570de9997917e3861ad831ff8b))
 
 ## [4.2.3] - 2020-02-14
 
