@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.1.0](https://github.com/3mo-esolutions/klarna-php-sdk/compare/v5.0.0...v5.1.0) (2025-10-02)
+
+
+### Features
+
+* DEV-8523: Make compatible with PHP 7.3 up to 8.3 ([dca6e89](https://github.com/3mo-esolutions/klarna-php-sdk/commit/dca6e89da41754d9f03867ac1b08de2ab641e00b))
+
 ## [5.0.0](https://github.com/3mo-esolutions/klarna-php-sdk/compare/v4.2.3...v5.0.0) (2023-09-26)
 
 
